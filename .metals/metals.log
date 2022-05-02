@@ -1,0 +1,11 @@
+2022.05.02 10:56:50 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Raymu\OneDrive\Documentos\GitHub\datos_masivos-Gradient-boosted_tree_classifier-expo\.metals\lsp.trace.json or C:\Users\Raymu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.02 10:56:51 INFO  logging to file C:\Users\Raymu\OneDrive\Documentos\GitHub\datos_masivos-Gradient-boosted_tree_classifier-expo\.metals\metals.log
+2022.05.02 10:56:51 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Raymu\OneDrive\Documentos\GitHub\datos_masivos-Gradient-boosted_tree_classifier-expo' for client Visual Studio Code 1.66.2.
+2022.05.02 10:56:53 INFO  time: initialize in 1.44s
+2022.05.02 10:56:53 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.02 10:56:53 WARN  Build server is not auto-connectable.
+2022.05.02 10:56:53 WARN  no build tool detected in workspace 'C:\Users\Raymu\OneDrive\Documentos\GitHub\datos_masivos-Gradient-boosted_tree_classifier-expo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.02 10:56:54 WARN  no build target for: C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\mllib\GradientBoostingClassificationExample.scala
+2022.05.02 10:56:56 INFO  no build target found for C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\mllib\GradientBoostingClassificationExample.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.02 11:03:29 WARN  no build target for: C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\mllib\GradientBoostingRegressionExample.scala
+2022.05.02 11:03:51 WARN  no build target for: C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\streaming\StreamingExamples.scala
