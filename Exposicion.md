@@ -1,4 +1,4 @@
-![LOGO](IMG/LOGO.png)
+<img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/uploads/2021/08/liston-de-logos-oficiales-educacion-tecnm-FEB-2021.jpg"
 >**Tecnológico Nacional de México  
 Instituto Tecnológico Campus Tijuana   
 Carrera: Ingeniería Informática e Ingeniería en Sistemas Computacionales**
