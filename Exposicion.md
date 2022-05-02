@@ -1,4 +1,4 @@
-![logo](/img/logos_itt.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Dze8yYYzBPaBVPf7j9Mx9NkHZDDzKXzavCoUnkZuO0xqHG3__mjVJOearB9bEeY4sg&usqp=CAU)
 >**Tecnológico Nacional de México  
 Instituto Tecnológico Campus Tijuana   
 Carrera: Ingeniería Informática e Ingeniería en Sistemas Computacionales**
@@ -44,8 +44,8 @@ object GradientBoostingClassificationExample {
     val splits = data.randomSplit(Array(0.7, 0.3))
     val (trainingData, testData) = (splits(0), splits(1))
 
-    // Tinstruccion del modelo GradientBoostedTrees.
-    // The defaultParams for Classification use LogLoss by default. El defaultParams de la clasificacion usa Logloss por default
+    // instruccion del modelo GradientBoostedTrees.
+    // El defaultParams de la clasificacion usa Logloss por default
     val boostingStrategy = BoostingStrategy.defaultParams("Classification")
     boostingStrategy.numIterations = 3 // Nota: usar mas iteraciones en la practica.
     boostingStrategy.treeStrategy.numClasses = 2
