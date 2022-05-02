@@ -9,3 +9,7 @@
 2022.05.02 10:56:56 INFO  no build target found for C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\mllib\GradientBoostingClassificationExample.scala. Using presentation compiler with project's scala-library version: 3.1.2
 2022.05.02 11:03:29 WARN  no build target for: C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\mllib\GradientBoostingRegressionExample.scala
 2022.05.02 11:03:51 WARN  no build target for: C:\Spark\spark-2.4.5-bin-hadoop2.7\examples\src\main\scala\org\apache\spark\examples\streaming\StreamingExamples.scala
+may 02, 2022 11:07:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+may 02, 2022 11:08:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
