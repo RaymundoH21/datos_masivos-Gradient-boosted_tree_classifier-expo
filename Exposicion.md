@@ -1,4 +1,4 @@
-![LOGO](/IMG/LOGO.png)
+![LOGO](IMG/LOGO.png)
 >**Tecnológico Nacional de México  
 Instituto Tecnológico Campus Tijuana   
 Carrera: Ingeniería Informática e Ingeniería en Sistemas Computacionales**
