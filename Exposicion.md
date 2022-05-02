@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Dze8yYYzBPaBVPf7j9Mx9NkHZDDzKXzavCoUnkZuO0xqHG3__mjVJOearB9bEeY4sg&usqp=CAU)
+![logo](/IMG/LOGO.png)
 >**Tecnológico Nacional de México  
 Instituto Tecnológico Campus Tijuana   
 Carrera: Ingeniería Informática e Ingeniería en Sistemas Computacionales**
